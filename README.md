@@ -8,7 +8,6 @@ Senior Software Engineer • Backend • Telecom • Systems Integration
 Delphi | SQL Server | Oracle | Node.js | High-Performance Systems
 </p>
 
----
 
 ## 👨‍💻 About Me
 
@@ -24,17 +23,14 @@ My main areas of expertise include:
 - Database Performance Optimization
 - Automation & Infrastructure
 
----
-
 ## 🛠 Tech Stack
 
 ### 💻 Languages
 
-![Delphi](https://img.shields.io/badge/Delphi-333?style=flat)
+![Delphi](https://img.shields.io/badge/Delphi-333?style=delphi)
 ![Node.js](https://img.shields.io/badge/Node.js-333?style=flat&logo=node.js)
 ![Bash](https://img.shields.io/badge/Bash-333?style=flat&logo=gnu-bash)
 
----
 
 ### 🗄 Databases
 
@@ -42,8 +38,9 @@ My main areas of expertise include:
 ![Oracle](https://img.shields.io/badge/Oracle-333?style=flat&logo=oracle)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?style=flat&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/SQLite-333?style=flat&logo=sqlite)
+![MongoDB](https://img.shields.io/badge/MongoDB-333?style=flat&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-333?style=flat&logo=redis)
 
----
 
 ### ☎ Telecom / VoIP
 
@@ -53,7 +50,6 @@ My main areas of expertise include:
 - Call Center Systems
 - PBX integrations
 
----
 
 ### ⚙ Infrastructure & Automation
 
@@ -65,7 +61,6 @@ My main areas of expertise include:
 - Integration services
 - Backend architecture
 
----
 
 ## 🚀 Areas of Interest
 
@@ -75,7 +70,6 @@ My main areas of expertise include:
 - Systems Integration
 - Enterprise Software
 
----
 
 ## 📫 Contact
 
